@@ -1,0 +1,71 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="CCTV1" tvg-id="256" tvg-logo="https://livecdn.zbds.org/logo/CCTV1.png" group-title="央视频道", CCTV1
+http://58.57.40.22:9901/tsfile/live/0001_1.m3u8
+#EXTINF:-1 tvg-name="CCTV2" tvg-id="228" tvg-logo="https://livecdn.zbds.org/logo/CCTV2.png" group-title="央视频道", CCTV2
+http://39.164.160.249:9901/tsfile/live/0002_1.m3u8
+#EXTINF:-1 tvg-name="CCTV3" tvg-id="214" tvg-logo="https://livecdn.zbds.org/logo/CCTV3.png" group-title="央视频道", CCTV3
+http://58.57.40.22:9901/tsfile/live/1002_1.m3u8
+#EXTINF:-1 tvg-name="CCTV4" tvg-id="240" tvg-logo="https://livecdn.zbds.org/logo/CCTV4.png" group-title="央视频道", CCTV4
+http://58.57.40.22:9901/tsfile/live/1003_1.m3u8
+#EXTINF:-1 tvg-name="CCTV5" tvg-id="253" tvg-logo="https://livecdn.zbds.org/logo/CCTV5.png" group-title="央视频道", CCTV5
+http://58.57.40.22:9901/tsfile/live/1004_1.m3u8
+#EXTINF:-1 tvg-name="CCTV5+" tvg-id="115" tvg-logo="https://livecdn.zbds.org/logo/CCTV5+.png" group-title="央视频道", CCTV5+
+http://58.57.40.22:9901/tsfile/live/1005_1.m3u8
+#EXTINF:-1 tvg-name="CCTV6" tvg-id="215" tvg-logo="https://livecdn.zbds.org/logo/CCTV6.png" group-title="央视频道", CCTV6
+http://58.57.40.22:9901/tsfile/live/1006_1.m3u8
+#EXTINF:-1 tvg-name="CCTV7" tvg-id="220" tvg-logo="https://livecdn.zbds.org/logo/CCTV7.png" group-title="央视频道", CCTV7
+http://58.57.40.22:9901/tsfile/live/1007_1.m3u8
+#EXTINF:-1 tvg-name="CCTV8" tvg-id="206" tvg-logo="https://livecdn.zbds.org/logo/CCTV8.png" group-title="央视频道", CCTV8
+http://58.57.40.22:9901/tsfile/live/1008_1.m3u8
+#EXTINF:-1 tvg-name="CCTV9" tvg-id="217" tvg-logo="https://livecdn.zbds.org/logo/CCTV9.png" group-title="央视频道", CCTV9
+http://39.164.160.249:9901/tsfile/live/0009_1.m3u8
+#EXTINF:-1 tvg-name="CCTV10" tvg-id="239" tvg-logo="https://livecdn.zbds.org/logo/CCTV10.png" group-title="央视频道", CCTV10
+http://39.164.160.249:9901/tsfile/live/0010_1.m3u8
+#EXTINF:-1 tvg-name="CCTV11" tvg-id="202" tvg-logo="https://livecdn.zbds.org/logo/CCTV11.png" group-title="央视频道", CCTV11
+http://58.57.40.22:9901/tsfile/live/1011_1.m3u8
+#EXTINF:-1 tvg-name="CCTV12" tvg-id="215" tvg-logo="https://livecdn.zbds.org/logo/CCTV12.png" group-title="央视频道", CCTV12
+http://58.57.40.22:9901/tsfile/live/1012_1.m3u8
+#EXTINF:-1 tvg-name="CCTV13" tvg-id="201" tvg-logo="https://livecdn.zbds.org/logo/CCTV13.png" group-title="央视频道", CCTV13
+http://39.164.160.249:9901/tsfile/live/0013_1.m3u8
+#EXTINF:-1 tvg-name="CCTV14" tvg-id="218" tvg-logo="https://livecdn.zbds.org/logo/CCTV14.png" group-title="央视频道", CCTV14
+http://58.57.40.22:9901/tsfile/live/1014_1.m3u8
+#EXTINF:-1 tvg-name="CCTV15" tvg-id="209" tvg-logo="https://livecdn.zbds.org/logo/CCTV15.png" group-title="央视频道", CCTV15
+http://58.57.40.22:9901/tsfile/live/1015_1.m3u8
+#EXTINF:-1 tvg-name="CCTV16" tvg-id="CCTV16" tvg-logo="https://livecdn.zbds.org/logo/CCTV16.png" group-title="央视频道", CCTV16
+http://livetv.wqwqwq.sbs/gaoma/cctv4k16.m3u8
+#EXTINF:-1 tvg-name="CCTV17" tvg-id="135" tvg-logo="https://livecdn.zbds.org/logo/CCTV17.png" group-title="央视频道", CCTV17
+http://58.57.40.22:9901/tsfile/live/0019_1.m3u8
+#EXTINF:-1 tvg-name="CCTV央视台球" tvg-id="CCTV央视台球" tvg-logo="https://livecdn.zbds.org/logo/CCTV央视台球.png" group-title="央视频道", CCTV央视台球
+https://epg.pw/stream/25677ac2e8c1f7c3dd6359c43eb5f0f54efb3f5c11f9dda18d01b3e0308ed017.m3u8
+#EXTINF:-1 tvg-name="CCTV女性时尚" tvg-id="CCTV女性时尚" tvg-logo="https://livecdn.zbds.org/logo/CCTV女性时尚.png" group-title="央视频道", CCTV女性时尚
+https://cc06.tv12.xyz/95.m3u8
+#EXTINF:-1 tvg-name="CCTV怀旧剧场" tvg-id="CCTV怀旧剧场" tvg-logo="https://livecdn.zbds.org/logo/CCTV怀旧剧场.png" group-title="央视频道", CCTV怀旧剧场
+https://cc06.tv12.xyz/52.m3u8
+#EXTINF:-1 tvg-name="CCTV第一剧场" tvg-id="CCTV第一剧场" tvg-logo="https://livecdn.zbds.org/logo/CCTV第一剧场.png" group-title="央视频道", CCTV第一剧场
+https://epg.pw/stream/6d7bf281e3d739806a73f5373acaa6e01988ec9739f5ac1355ce54b47a928472.m3u8
+#EXTINF:-1 tvg-name="CGTN" tvg-id="CGTN" tvg-logo="https://livecdn.zbds.org/logo/CGTN.png" group-title="央视频道", CGTN
+https://0472.org/hls/cgtn.m3u8
+#EXTINF:-1 tvg-name="CGTN俄语" tvg-id="CGTN俄语" tvg-logo="https://livecdn.zbds.org/logo/CGTN俄语.png" group-title="央视频道", CGTN俄语
+https://0472.org/hls/cgtne.m3u8
+#EXTINF:-1 tvg-name="CGTN法语" tvg-id="CGTN法语" tvg-logo="https://livecdn.zbds.org/logo/CGTN法语.png" group-title="央视频道", CGTN法语
+https://0472.org/hls/cgtnf.m3u8
+#EXTINF:-1 tvg-name="CGTN纪录" tvg-id="CGTN纪录" tvg-logo="https://livecdn.zbds.org/logo/CGTN纪录.png" group-title="央视频道", CGTN纪录
+https://0472.org/hls/cgtnd.m3u8
+#EXTINF:-1 tvg-name="CGTN西语" tvg-id="CGTN西语" tvg-logo="https://livecdn.zbds.org/logo/CGTN西语.png" group-title="央视频道", CGTN西语
+https://0472.org/hls/cgtnx.m3u8
+#EXTINF:-1 tvg-name="CGTN阿语" tvg-id="CGTN阿语" tvg-logo="https://livecdn.zbds.org/logo/CGTN阿语.png" group-title="央视频道", CGTN阿语
+https://0472.org/hls/cgtna.m3u8
+#EXTINF:-1 tvg-name="CETV1" tvg-id="CETV1" tvg-logo="https://livecdn.zbds.org/logo/CETV1.png" group-title="央视频道", CETV1
+https://cc06.tv12.xyz/23.m3u8
+#EXTINF:-1 tvg-name="CETV2" tvg-id="CETV2" tvg-logo="https://livecdn.zbds.org/logo/CETV2.png" group-title="央视频道", CETV2
+https://cc06.tv12.xyz/24.m3u8
+#EXTINF:-1 tvg-name="CETV4" tvg-id="CETV4" tvg-logo="https://livecdn.zbds.org/logo/CETV4.png" group-title="央视频道", CETV4
+https://mursor.ottiptv.cc/migu/923287339.m3u8?migutoken=165b545b4402eaba61cdc31defb6548a443d9b5eebb1d99392852bd799c553e8817e85eb324c512581ca9a1ed8e56e530144f79606cf44fe5b2d5e97b6da577e0f2adae2a90c2a55089c95880b
+#EXTINF:-1 tvg-name="中国交通" tvg-id="中国交通" tvg-logo="https://livecdn.zbds.org/logo/中国交通.png" group-title="央视频道", 中国交通
+http://drive.mxmy.net:8888/udp/239.3.1.188:8001
+#EXTINF:-1 tvg-name="电视指南" tvg-id="电视指南" tvg-logo="https://livecdn.zbds.org/logo/电视指南.png" group-title="央视频道", 电视指南
+https://cc06.tv12.xyz/39.m3u8
+#EXTINF:-1 tvg-name="直播中国" tvg-id="直播中国" tvg-logo="https://livecdn.zbds.org/logo/直播中国.png" group-title="央视频道", 直播中国
+https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 tvg-name="支持作者" tvg-id="izbds" tvg-logo="" group-title="央视频道", 支持作者
+https://vd4.bdstatic.com/mda-rht8yb8mk7prjpvb/1080p/cae_h264/1756373484708582178/mda-rht8yb8mk7prjpvb.mp4
